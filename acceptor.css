@@ -1,0 +1,33 @@
+*{
+    margin :120;
+    width :100;
+
+}
+.container{
+    height:400px;
+    width:400px;
+    padding:100px;
+
+}
+.h3{
+    margin:20px;
+    position:relative;
+    left:1px;
+}
+.bloodgroup{
+    margin:20px;
+    position:relative;
+    left:50px;
+}
+
+.state{
+    margin:20px;
+    position:relative;
+    left:50px;
+}
+
+.district{
+    margin:20px;
+    position:relative;
+    left:50px;
+}
